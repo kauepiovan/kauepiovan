@@ -30,6 +30,5 @@ apply my knowledge and contribute to innovative solutions
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kauepiovan&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kauepiovan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=kauepiovan&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
