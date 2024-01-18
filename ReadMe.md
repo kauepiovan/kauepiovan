@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudante dedicado em Análise e Desenvolvimento de Sistemas,<br>apaixonado por tecnologia. Buscando oportunidade profissional para<br>aplicar meus conhecimentos e contribuir para soluções inovadoras
+Dedicated student in Systems Analysis and Development,
+passionate about technology. Looking for a professional opportunity
+apply my knowledge and contribute to innovative solutions
 
 
 ## 🌐 Socials:
