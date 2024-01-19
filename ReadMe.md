@@ -1,4 +1,4 @@
-# 🤘 About Me:
+# 🤘🔥About Me:
 Dedicated student in Systems Analysis and Development, passionate about technology. Looking for a professional opportunity apply my knowledge and contribute to innovative solutions
 
 
@@ -35,14 +35,9 @@ Dedicated student in Systems Analysis and Development, passionate about technolo
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kauepiovan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kauepiovan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kauepiovan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=kauepiovan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kauepiovan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kauepiovan&icon=0&color=12)](https://visitcount.itsvg.in)
