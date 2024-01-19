@@ -1,7 +1,5 @@
 # 🤘🔥About Me:
-Dedicated student in Systems Analysis and Development, passionate about technology. Looking for a professional opportunity apply my knowledge and contribute to innovative solutions
-
-
+Dedicated student in Systems Analysis and Development, passionate about technology. Looking for a professional opportunity to apply my knowledges and contribute to innovative solutions
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
