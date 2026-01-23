@@ -77,7 +77,7 @@ Concluído — dez/2025
 
 ## Contato
 
-- GitHub: https://github.com/seu-usuario  
+- GitHub: https://github.com/kauepiovan
 - LinkedIn: https://linkedin.com/in/kauepiovan  
 - Email: kaupiovan@gmail.com
 
