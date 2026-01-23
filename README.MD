@@ -51,10 +51,10 @@ Desenvolvo aplicações com APIs bem definidas, código limpo, testes automatiza
 > Projetos representativos do meu aprendizado e prática em engenharia de software.  
 > *(Os detalhes serão atualizados conforme a evolução dos projetos.)*
 
-| Projeto | Descrição | Destaques |
+| Projeto | Descrição | Stack Principal |
 |--------|-----------|----------|
-| **Biblioteca** | Sistema de gerenciamento de biblioteca | Java, JUnit, Mockito, Maven, CLI |
-| **Agenda** | Criação e gerenciamento de contatos | Node.js, JavaScript, EJS, Express, Sessions, Bootstrap, Autenticação |
+| **Gerenciador de Biblioteca** | Sistema de gestão com foco em testes unitários e cobertura de código. | Java, JUnit, Mockito, Maven, CLI |
+| **Agenda** | Aplicação MVC completa com autenticação e persistência de dados. | Node.js, JavaScript, EJS, Express, Sessions, Bootstrap, Autenticação, MongoDB  |
 | *Em breve* | ... | ... |
 
 ---
@@ -80,3 +80,7 @@ Concluído — dez/2025
 - GitHub: https://github.com/seu-usuario  
 - LinkedIn: https://linkedin.com/in/kauepiovan  
 - Email: kaupiovan@gmail.com
+
+---
+> *Sinta-se à vontade para me chamar para discutir arquitetura de software ou novas oportunidades!*
+
