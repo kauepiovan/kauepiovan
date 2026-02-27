@@ -1,86 +1,73 @@
-# Kauê Piovan
+# 🚀 Kauê Piovan | Full Stack Developer
 
-Desenvolvedor **Full Stack** com foco em **Backend**, formado em **Análise e Desenvolvimento de Sistemas**.  
-Desenvolvo aplicações com APIs bem definidas, código limpo, testes automatizados e atenção à arquitetura, buscando soluções sustentáveis e de fácil manutenção.
+Desenvolvedor **Full Stack** especializado no ecossistema **C# / .NET Core** e **Angular**. Graduado em **Análise e Desenvolvimento de Sistemas (2025)**, com foco em arquitetura de software, código limpo (**Clean Code**) e automação de processos.
 
-📍 Brasil • 🌎 Remote-friendly  
-🎓 Análise e Desenvolvimento de Sistemas — concluído  
-💼 Aberto a oportunidades: Backend / Full Stack
+📍 Batatais - SP • 🎓 ADS — Concluído (2025)  
+💼 **Foco Atual:** C# | .NET | SQL Server | Angular | Mobile (Ionic)
 
 ---
 
-## O que eu faço
+## 💻 O Que Eu Desenvolvo
 
-### Backend
-- Desenvolvimento de APIs REST com separação clara de responsabilidades  
-- Aplicação de conceitos de **Clean Architecture** e **Domain-Driven Design (DDD)**  
-- Escrita de testes automatizados para garantir confiabilidade e facilitar refatorações  
+### **Ecossistema Microsoft (.NET)**
+- Desenvolvimento de aplicações robustas com **C#** e **ASP.NET Core**.
+- Domínio de **Entity Framework** e modelagem de dados em **SQL Server**.
+- Manipulação avançada de recursos do sistema (**I/O, Regex e Gestão de Memória**).
 
-### Frontend
-- Construção de interfaces web responsivas  
-- Integração de aplicações frontend com APIs backend  
+### **Frontend & Mobile Moderno**
+- Interfaces dinâmicas e SPA com **Angular 19** e **TypeScript**.
+- Desenvolvimento cross-platform (iOS/Android) com **Ionic 8** e **Capacitor 7**.
+- Integração de APIs REST com foco em performance e experiência do usuário (UX).
 
-### Fundamentos e Boas Práticas
-- Controle de versão e colaboração com Git e GitHub  
-- Ambientes de desenvolvimento containerizados com Docker  
-- Fluxo de trabalho baseado em Linux  
-
----
-
-## Tecnologias que utilizo
-
-**Backend**  
-- Java (Spring Boot, JUnit, Mockito)  
-- JavaScript & TypeScript (Node.js, Express, Fastify, Prisma ORM)  
-- Python (FastAPI)
-
-**Frontend**  
-- JavaScript & TypeScript (React.js, EJS, Bootstrap, Vite, Babel, Webpack)  
-- HTML5 & CSS3  
-
-**DevOps & Ferramentas**  
-- Docker  
-- Git  
-- Bash  
-- Linux  
+### **Engenharia de Software & Qualidade**
+- Aplicação rigorosa de **SOLID**, **DRY** e **Clean Architecture**.
+- Testes automatizados (**TDD**) com **JUnit/Mockito** e fundamentos de **xUnit**.
+- Experiência em **Levantamento de Requisitos** e metodologias ágeis (**Scrum**).
 
 ---
 
-## Projetos em destaque
+## 🛠️ Tech Stack
 
-> Projetos representativos do meu aprendizado e prática em engenharia de software.  
-> *(Os detalhes serão atualizados conforme a evolução dos projetos.)*
+**Linguagens & Frameworks**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Banco de Dados & Ferramentas**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
 
 | Projeto | Descrição | Stack Principal |
-|--------|-----------|----------|
-| **Gerenciador de Biblioteca** | Sistema de gestão com foco em testes unitários e cobertura de código. | Java, JUnit, Mockito, Maven, CLI |
-| **Agenda** | Aplicação MVC completa com autenticação e persistência de dados. | Node.js, JavaScript, EJS, Express, Sessions, Bootstrap, Autenticação, MongoDB  |
-| *Em breve* | ... | ... |
+| :--- | :--- | :--- |
+| [**Restaurante App Mobile**](https://github.com/kauepiovan/Restaurante-App-Mobile) | App de gestão de pedidos com Angular 19 e Ionic 8. Foco em UX e performance. | Angular, Ionic, TypeScript |
+| [**Suíte CLI C#**](https://github.com/kauepiovan/EditorHTML_CLI) | Editor HTML e de Texto focados em lógica de I/O, Regex e System.Text em .NET. | C#, .NET Core |
+| [**Gerenciador de Biblioteca**](https://github.com/kauepiovan/biblioteca) | API Backend com foco em SOLID, Clean Code e testes de alta cobertura. | Java, Spring Boot, JUnit |
+| [**Agenda Fullstack**](https://github.com/kauepiovan/Agenda) | Sistema MVC completo com autenticação, segurança CSRF e Node.js. | Node.js, Express, MongoDB |
 
 ---
 
-## Como eu trabalho
+## ⚙️ Diferenciais & Automação
 
-- Forte atenção a **código limpo**, legibilidade e organização  
-- Preferência por soluções simples e bem estruturadas  
-- Valorizo testes, clareza no domínio e evolução incremental  
-- Compromisso com aprendizado contínuo e responsabilidade técnica  
-
----
-
-## Formação
-
-🎓 **Análise e Desenvolvimento de Sistemas**  
-Concluído — dez/2025
+Além do desenvolvimento de software tradicional, possuo forte atuação em **automação de processos**:
+- Desenvolvimento de scripts em **VBA** e **AutoLISP** para otimização de fluxos produtivos reais.
+- Capacidade de traduzir regras de negócio complexas em soluções técnicas eficientes.
 
 ---
 
-## Contato
+## 📫 Vamos Conversar?
 
-- GitHub: https://github.com/kauepiovan
-- LinkedIn: https://linkedin.com/in/kauepiovan  
-- Email: kaupiovan@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauepiovan)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaupiovan@gmail.com)
 
 ---
-> *Sinta-se à vontade para me chamar para discutir arquitetura de software ou novas oportunidades!*
-
+> *"Escrevo código para humanos lerem e máquinas executarem com excelência."*
